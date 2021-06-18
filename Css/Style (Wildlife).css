@@ -1,5 +1,4 @@
 
-
 html{
   scroll-behavior: smooth
 }
@@ -85,12 +84,6 @@ img {
   left: 225px;
 }
 
-.copywrite {
-  position: absolute;
-  top: 1675px;
-  left: 300px;
-}
-
 #myBtn {
   display: none;
   position: fixed;
@@ -110,4 +103,10 @@ img {
 
 #myBtn:hover {
   background-color: #555;
+}
+
+.copywrite {
+  position: absolute;
+  top: 1675px;
+  left: 300px;
 }
