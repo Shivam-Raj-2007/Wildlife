@@ -108,5 +108,11 @@ img {
 .copywrite {
   position: absolute;
   top: 1675px;
-  left: 300px;
+  left: 0px;
+  width: 100%;
+  text-align: center;
+}
+
+a {
+  color: black;
 }
